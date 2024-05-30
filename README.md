@@ -1,4 +1,4 @@
-# Sr. Full Stack Web/Web3 Developer with latest technologies
+# Sr. Full Stack Developer with latest technologies
 
 🔭 A full stack web/web3 developer with 7 years experience in web development and 3 years experience in web3/blockchain development, using latest technologies, languages, frameworks and libraries in different areas, including frontend, backend, full stack and blockchain.
 
